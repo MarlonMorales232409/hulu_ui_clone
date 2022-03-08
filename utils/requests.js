@@ -1,5 +1,4 @@
-// const API_KEY = process.env.API_KEY;
-const API_KEY = "798e7cb1b6ea4641c7b98043a33d8a15"
+const API_KEY = process.env.API_KEY;
 
 export default {
 	trending: {
